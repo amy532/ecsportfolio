@@ -4,14 +4,14 @@ body {
 	margin: 0 auto;
 }
 .homePage {
-	background: #222222;
+	background: #C3C8E0;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: #9FBEE0;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -46,7 +46,7 @@ body {
 }
 body {
      font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-     background-color: #C5D4E0;
+     background-color: #FFFFFF;
      margin: 0;
      padding: 0;
      color: #000;
